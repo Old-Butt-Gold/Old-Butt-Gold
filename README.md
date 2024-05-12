@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrey Krutko
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+Name+is+Andrey+Krutko)](https://git.io/typing-svg)
 =====================================================================================================================================
 
 Software Engineer
@@ -6,8 +6,12 @@ Software Engineer
 
 * 🌍  I'm based in Belarus, Minsk
 
-<a href="https://www.github.com/Old-Butt-Gold" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Old-Butt-Gold?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="left">
+    <a href="https://www.github.com/Old-Butt-Gold" target="_blank" rel="noreferrer"><img
+    src="https://img.shields.io/github/followers/Old-Butt-Gold?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+    <a href="https://www.github.com/Old-Butt-Gold" target="_blank" rel="noreferrer"><img
+    src="https://komarev.com/ghpvc/?username=Old-Butt-Gold?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917")" /></a>
+</p>
 
 ### Skills
 
@@ -42,7 +46,7 @@ src="https://img.shields.io/github/followers/Old-Butt-Gold?logo=github&style=for
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Old-Butt-Gold&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Old-Butt-Gold&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Old-Butt-Gold&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔥 GitHub Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Old-Butt-Gold&theme=tokyonight-duo)](https://git.io/streak-stats)
