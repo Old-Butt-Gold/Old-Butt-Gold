@@ -10,7 +10,7 @@ Software Engineer
     <a href="https://www.github.com/Old-Butt-Gold" target="_blank" rel="noreferrer"><img
     src="https://img.shields.io/github/followers/Old-Butt-Gold?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
     <a href="https://www.github.com/Old-Butt-Gold" target="_blank" rel="noreferrer"><img
-    src="https://komarev.com/ghpvc/?username=Old-Butt-Gold&color=0891b2&labelColor=1c1917")" /></a>
+    src="https://komarev.com/ghpvc/?username=Old-Butt-Gold?logo=github&color=0891b2&labelColor=1c1917")" /></a>
 </p>
 
 ### Skills
