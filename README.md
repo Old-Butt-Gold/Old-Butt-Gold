@@ -84,3 +84,9 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Old-Butt-Gold&amp;column=-1&amp;margin-w=15&amp;margin-h=15&amp;theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
+
+<details>
+  <summary>&#128584; LeetCode</summary>
+  
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Old-Butt-Gold&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+</details>
