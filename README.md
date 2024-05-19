@@ -73,20 +73,34 @@
   <summary>&#128584; GitHub Stats</summary>
   
   ### 📈 GitHub Activity Graph:
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Old-Butt-Gold&amp;theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Old-Butt-Gold&amp;show_icons=true&amp;theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Old-Butt-Gold&amp;size_weight=0.5&amp;count_weight=0.5&amp;layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Old-Butt-Gold&amp;theme=github-compact" />
+    <br/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Old-Butt-Gold&amp;show_icons=true&amp;theme=algolia" />
+     <br/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Old-Butt-Gold&amp;size_weight=0.5&amp;count_weight=0.5&amp;layout=donut" />
+    <br/>
+  </a>
+  
   ### 🔥 GitHub Streak Stats
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Old-Butt-Gold&amp;theme=tokyonight-duo)](https://git.io/streak-stats)
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Old-Butt-Gold&amp;column=-1&amp;margin-w=15&amp;margin-h=15&amp;theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Old-Butt-Gold&amp;theme=tokyonight-duo" />
+     <br/>
+  </a>
+  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/ryo-ma/github-profile-trophy)">
+    <img src="https://github-profile-trophy.vercel.app/?username=Old-Butt-Gold&amp;column=-1&amp;margin-w=15&amp;margin-h=15&amp;theme=tokyonight" />
+    <br/>
+  </a>
 </details>
 
 <details>
   <summary>&#128584; LeetCode</summary>
-  
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Old-Butt-Gold&theme=dark)](https://leetcode.com/u/Old-Butt-Gold/)
+  <a href="https://leetcode.com/u/Old-Butt-Gold/">
+    <br/>
+    <img src="https://leetcode-stats-six.vercel.app/api?username=Old-Butt-Gold&theme=dark" />
+  </a>
 </details>
