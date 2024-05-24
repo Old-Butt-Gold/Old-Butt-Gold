@@ -89,7 +89,7 @@
   ### 🔥 GitHub Streak Stats
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Old-Butt-Gold&amp;theme=tokyonight-duo" />
-     <br/>
+    <br/>
   </a>
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/ryo-ma/github-profile-trophy)">
     <img src="https://github-profile-trophy.vercel.app/?username=Old-Butt-Gold&amp;column=-1&amp;margin-w=15&amp;margin-h=15&amp;theme=tokyonight" />
