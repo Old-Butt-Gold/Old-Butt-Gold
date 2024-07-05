@@ -104,6 +104,6 @@
   <summary>&#128584; LeetCode</summary>
   <a href="https://leetcode.com/u/Old-Butt-Gold/">
     <br/>
-    <img src="https://leetcode-stats-six.vercel.app/api?username=Old-Butt-Gold&theme=dark" />
+    <img src="https://leetcard.jacoblin.cool/Old-Butt-Gold?animation=true&ext=activity" />
   </a>
 </details>
