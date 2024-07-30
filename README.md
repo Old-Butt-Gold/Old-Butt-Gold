@@ -66,7 +66,7 @@
     <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="https://t.me/obgdete" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/badges/shields/master/logo/telegram.svg" width="40" height="40" alt="Telegram" />
+    <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Telegram.svg" width="40" height="40" alt="Telegram" />
   </a>
 </div>
 
