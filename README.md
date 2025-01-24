@@ -21,6 +21,9 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" />
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
   </a>
@@ -59,8 +62,10 @@
   <a href="https://www.github.com/Old-Butt-Gold" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" />
   </a>
+
+###
   <a href="http://www.instagram.com/hyper_x_prorok" target="_blank" rel="noreferrer">
-    <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/andrey-krutko" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" />
@@ -104,6 +109,11 @@
   <summary>&#128584; LeetCode</summary>
   <a href="https://leetcode.com/u/Old-Butt-Gold/">
     <br/>
-    <img src="https://leetcard.jacoblin.cool/Old-Butt-Gold?animation=true&ext=activity" />
+    <img src="https://leetcard.jacoblin.cool/Old-Butt-Gold?animation=true&ext=heatmap" />
   </a>
+</details>
+
+<details>
+  <summary>&#128584; Joke</summary>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 </details>
